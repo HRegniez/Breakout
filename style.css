@@ -1,5 +1,6 @@
 
 .grid {
+    margin: 80px 80px;
     position: absolute;
     width: 560px;
     height: 300px;
@@ -19,4 +20,12 @@
     height: 20px;
     width: 100px;
     background-color: rgb(109, 22, 28);
+}
+
+.ball {
+    position: absolute;
+    width: 20px;
+    height:20px;
+    border-radius:10px;
+    background-color: brown;
 }
